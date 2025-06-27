@@ -1,2 +1,3 @@
 Este es un archivo de prueba
 Que fue creado en la rama feature
+Ahora este archivo está siendo modificado en la rama de release para verificación de errores, documentación, etc.
